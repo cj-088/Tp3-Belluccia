@@ -2002,7 +2002,7 @@ section {
   transition: 0.3s;
 }
 
-.imgfooter img, svg {
+.imgfooter {
 
   vertical-align: middle;
   padding-top: 3px;
